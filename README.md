@@ -30,14 +30,32 @@ dam break data sets is available [here](https://github.com/Twinklebear/ExaMPM-li
 
 On Stampede2 the following modules were loaded:
 ```
-git/2.24.1 cmake/3.16.1 TACC qt5/5.11.2 python3/3.6.1
-phdf5/1.10.4 autotools/1.1 xalt/2.8 libfabric/1.7.0 gcc/7.1.0 impi/18.0.2
+git/2.24.1
+cmake/3.16.1
+TACC
+qt5/5.11.2
+python3/3.6.1
+phdf5/1.10.4
+autotools/1.1
+xalt/2.8
+libfabric/1.7.0
+gcc/7.1.0
+impi/18.0.2
 ```
 
 On Summit the following modules were loaded:
 ```
-hsi/5.0.2.p5 lsftools/2.0 DefApps cmake/3.15.2 hdf5/1.10.4 git/2.20.1 xalt/1.2.0
-darshan-runtime/3.1.7 gcc/9.1.0 spectrum-mpi/10.3.1.2-20200121 python/3.7.0-anaconda3-5.3.0
+hsi/5.0.2.p5
+lsftools/2.0
+DefApps
+cmake/3.15.2
+hdf5/1.10.4
+git/2.20.1
+xalt/1.2.0
+darshan-runtime/3.1.7
+gcc/9.1.0
+spectrum-mpi/10.3.1.2-20200121
+python/3.7.0-anaconda3-5.3.0
 ```
 
 For our IOR comparisons we built the latest IOR from [Github](https://github.com/hpc/ior),
