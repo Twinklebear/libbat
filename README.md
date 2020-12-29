@@ -5,7 +5,7 @@ the adaptive, spatially aware two-phase I/O strategy
 for particle data and the low overhead multiresolution data layout
 described in our IPDPS 2021 paper:
 [*Adaptive Spatially Aware I/O for Multiresoluton Particle Data Layouts*](https://www.willusher.io/publications/particleio-ipdps21).
-The scripts used to run the benchmarks are available here: https://github.com/Twinklebear/libbat-benchmark-scripts
+The scripts used to run the benchmarks are available [here](https://github.com/Twinklebear/libbat-benchmark-scripts).
 
 ## Dependencies
 
