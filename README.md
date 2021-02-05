@@ -66,5 +66,5 @@ at commit hash `efbfecab` (now released as 0.9.9.8).
 The visualization read benchmarks were performed on a desktop
 with an i9-9920X CPU and 128GB of RAM running Ubuntu 19.04
 (GNU/Linux 5.0.0-38-generic x86_64). The data was read from a
-1TB Samsung 860 NVMe drive. The compiler used was gcc 8.3.0
+1TB Samsung 970 NVMe drive. The compiler used was gcc 8.3.0
 
